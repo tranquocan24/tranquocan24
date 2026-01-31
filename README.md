@@ -2,4 +2,4 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TÊN_USER_CỦA_BẠN&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tranquocan24&theme=dark)](https://git.io/streak-stats)
